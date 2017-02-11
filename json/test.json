@@ -1,0 +1,19 @@
+﻿{
+	"page1": {
+		"section1":{
+			"integer":1,
+			"float":0.345343,
+			"string":"i am string",
+			"boolean1":true,
+			"boolean2":false,
+			"object-array":[
+				{
+					"field1":"value1"
+				},
+				{
+					"field2":"value2"
+				}
+			]
+		}
+	}
+}
